@@ -1,0 +1,16 @@
+{
+	"CurrentProfile":"",
+	"FormationSaveIncludeFeatsCheck":0,
+	"HKsRequired":1,
+	"HKsSwap25100":0,
+	"LevelupAmountIndex":3,
+	"NarrowHeroBoxes":1,
+	"PercentOfParticlesSpawned":0,
+	"ReduceFramerateWhenNotInFocus":0,
+	"resolution_fullscreen":0,
+	"resolution_x":1280,
+	"resolution_y":720,
+	"ShowAllHeroBoxes":1,
+	"TargetFramerate":600,
+	"UseConsolePortraits":0
+}

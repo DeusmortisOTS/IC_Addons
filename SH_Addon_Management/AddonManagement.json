@@ -1,0 +1,153 @@
+{
+	"Addon Order":[
+		{
+			"Name":"IC Core",
+			"Version":"v0.1.4"
+		},
+		{
+			"Name":"Briv Gem Farm",
+			"Version":"v1.5.4"
+		},
+		{
+			"Name":"BrivGemFarm Advanced Settings",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Briv Gem Farm Stats",
+			"Version":"v1.1.6"
+		},
+		{
+			"Name":"Chest Purchaser",
+			"Version":"v0.3.1"
+		},
+		{
+			"Name":"About",
+			"Version":"v0.3.3"
+		},
+		{
+			"Name":"Game Location Settings",
+			"Version":"v0.1.3"
+		},
+		{
+			"Name":"Inventory View",
+			"Version":"v0.2.3"
+		},
+		{
+			"Name":"Memory Functions",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Memory Functions Full Read",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Theme Manager",
+			"Version":"v0.0.3"
+		},
+		{
+			"Name":"Addon Example",
+			"Version":"v0.1.1"
+		},
+		{
+			"Name":"BrivGemFarm Close Welcome Back",
+			"Version":"v0.1.0"
+		},
+		{
+			"Name":"BrivGemFarm LevelUp",
+			"Version":"v1.3.7"
+		},
+		{
+			"Name":"RNG Waiting Room",
+			"Version":"v0.2.2"
+		},
+		{
+			"Name":"Cazrin Books Farmer",
+			"Version":"v0.0.1"
+		},
+		{
+			"Name":"Game Settings Fix",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Claim Daily Platinum",
+			"Version":"v0.4.2"
+		},
+		{
+			"Name":"No Modron Adventuring",
+			"Version":"v0.0.5"
+		},
+		{
+			"Name":"Potion Sustain",
+			"Version":"v0.2.10"
+		},
+		{
+			"Name":"HybridTurboStacking PreferredEnemies",
+			"Version":"v0.0.3"
+		},
+		{
+			"Name":"BrivGemFarm HideDefaultProfile",
+			"Version":"v0.0.1"
+		},
+		{
+			"Name":"EGS Overlay Swatter",
+			"Version":"v0.0.5"
+		}
+	],
+	"Enabled Addons":[
+		{
+			"Name":"IC Core",
+			"Url":"https://github.com/mikebaldi/Idle-Champions/tree/main/AddOns/IC_Core",
+			"Version":"v0.1.4"
+		},
+		{
+			"Name":"Briv Gem Farm",
+			"Url":"https://github.com/mikebaldi/Idle-Champions/tree/main/AddOns/IC_BrivGemFarm_Performance",
+			"Version":"v1.5.4"
+		},
+		{
+			"Name":"BrivGemFarm Advanced Settings",
+			"Url":"https://github.com/mikebaldi/Idle-Champions/tree/main/AddOns/IC_BrivGemFarm_AdvancedSettings",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Briv Gem Farm Stats",
+			"Url":"https://github.com/mikebaldi/Idle-Champions/tree/main/AddOns/IC_BrivGemFarm_Stats",
+			"Version":"v1.1.6"
+		},
+		{
+			"Name":"Chest Purchaser",
+			"Url":"https://github.com/mikebaldi/Idle-Champions/tree/main/AddOns/IC_ChestPurchaser",
+			"Version":"v0.3.1"
+		},
+		{
+			"Name":"About",
+			"Url":"https://github.com/mikebaldi/Idle-Champions/tree/main/AddOns/IC_About",
+			"Version":"v0.3.3"
+		},
+		{
+			"Name":"BrivGemFarm Close Welcome Back",
+			"Url":"https://github.com/Pneumatus/IC-Addons/tree/main/IC_BrivGemFarm_CloseWelcomeBack_Extra",
+			"Version":"v0.1.0"
+		},
+		{
+			"Name":"BrivGemFarm LevelUp",
+			"Url":"https://github.com/imp444/IC_Addons/tree/main/IC_BrivGemFarm_LevelUp_Extra",
+			"Version":"v1.3.7"
+		},
+		{
+			"Name":"RNG Waiting Room",
+			"Url":"https://github.com/imp444/IC_Addons/tree/main/IC_RNGWaitingRoom_Extra",
+			"Version":"v0.2.2"
+		},
+		{
+			"Name":"Game Settings Fix",
+			"Url":"https://github.com/emmotes/IC_Addons/tree/main/IC_Addons/IC_GameSettingsFix_Extra",
+			"Version":"v0.2.4"
+		},
+		{
+			"Name":"Claim Daily Platinum",
+			"Url":"https://github.com/emmotes/IC_Addons/tree/main/IC_Addons/IC_ClaimDailyPlatinum_Extra",
+			"Version":"v0.4.2"
+		}
+	]
+}
